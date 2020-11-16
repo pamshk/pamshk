@@ -12,5 +12,4 @@ Biomedical Engineering student at UNAM :yellow_heart::blue_heart:.
 
 -  LinkedIn: <a href = "https://www.linkedin.com/PamelaSantamariaISB">Pamela Santamaria</a>
 -  Instagram: <a href = "https://www.instagram.com/paaamsh/">paaamsh</a>
--  Twitter: <a href = "https://twitter.com/lonelymojarra">psh</a>
 -  StackOverflow: coming soon
