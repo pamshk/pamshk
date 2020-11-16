@@ -6,7 +6,7 @@ Biomedical Engineering student at UNAM :yellow_heart::blue_heart:.
 - 🌱 I’m currently learning **Python** and **MATLAB**
 - 🤔 I’m looking for help with biomedical applications
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love cats, swimming, and learning languages
+- ⚡ Fun fact: I love cats, swimming and learning languages
 
 ### 📬 Get in Touch
 
