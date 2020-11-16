@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align='center'> Hola! 👋
 
-<!--
-**pamshk/pamshk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Biomedical Engineering student at UNAM :yellow_heart::blue_heart:. Sólo Veracruz es bello :heart:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Python** and **MATLAB**
+- 🤔 I’m looking for help with biomedical applications
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love cats, swimming, and learning languages
+
+### 📬 Get in Touch
+
+-  LinkedIn: <a href = "https://www.linkedin.com/PamelaSantamariaISB">Pamela Santamaria</a>
+-  Instagram: <a href = "https://www.instagram.com/paaamsh/">paaamsh</a>
+-  Twitter: <a href = "https://twitter.com/lonelymojarra">psh</a>
+-  StackOverflow: coming soon
