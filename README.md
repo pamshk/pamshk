@@ -1,6 +1,6 @@
 ## Hola! Hi! Salut! 👋
 
-Biomedical Engineering student at UNAM :yellow_heart::blue_heart:. Sólo Veracruz es bello :heart:
+Biomedical Engineering student at UNAM :yellow_heart::blue_heart:.
 
 
 - 🌱 I’m currently learning **Python** and **MATLAB**
