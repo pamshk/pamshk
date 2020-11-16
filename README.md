@@ -1,4 +1,4 @@
-<h1 align='center'> Hola! 👋
+## Hola! Hi! Salut! 👋
 
 Biomedical Engineering student at UNAM :yellow_heart::blue_heart:. Sólo Veracruz es bello :heart:
 
